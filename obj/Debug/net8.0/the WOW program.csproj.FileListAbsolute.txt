@@ -1,0 +1,14 @@
+c:\Users\conno\Downloads\the WOW program\bin\Debug\net8.0\the WOW program.exe
+c:\Users\conno\Downloads\the WOW program\bin\Debug\net8.0\the WOW program.deps.json
+c:\Users\conno\Downloads\the WOW program\bin\Debug\net8.0\the WOW program.runtimeconfig.json
+c:\Users\conno\Downloads\the WOW program\bin\Debug\net8.0\the WOW program.dll
+c:\Users\conno\Downloads\the WOW program\bin\Debug\net8.0\the WOW program.pdb
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.AssemblyInfoInputs.cache
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.AssemblyInfo.cs
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.csproj.CoreCompileInputs.cache
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.dll
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\refint\the WOW program.dll
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.pdb
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\the WOW program.genruntimeconfig.cache
+c:\Users\conno\Downloads\the WOW program\obj\Debug\net8.0\ref\the WOW program.dll
